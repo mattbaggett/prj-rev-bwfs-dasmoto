@@ -1,0 +1,45 @@
+* {
+  font-family: Georgia, sans-serif;
+}
+
+strong {
+  font-weight: bold;
+  font-family: Helvetica;
+  color:blue;
+}
+
+.heading {
+  background-image: url('../images/pattern.jpeg');
+}
+
+h1 {
+  font-family: Helvetica;
+  font-size:100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+.heading2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: mediumspringgreen;
+}
+
+.heading3 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: lightcoral;
+}
+
+.heading4 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color:white;
+  background-color: skyblue;
+}
